@@ -1,1 +1,1 @@
-# Guia-de-estudio-para-python
+# Guia-de-estudio-para-programacion
